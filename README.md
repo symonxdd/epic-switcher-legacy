@@ -5,6 +5,13 @@
   <h1>Epic Switcher</h1>
 </div>
 
+<br/>
+
+> ⚠️ **This is the legacy C# version of Epic Switcher.**  
+> The actively maintained and improved version is now at [symonxdd/epic-switcher](https://github.com/symonxdd/epic-switcher)
+
+<br/>
+
 Epic Switcher is designed to facilitate switching between accounts in the Epic Games Launcher (Windows only). 💻✨  
 <br/><br/>
 
